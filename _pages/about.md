@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-hello!
+hello! my name is jolie [ˈʤɑˌli]. i'm a computer science + linguistics undergraduate at university of washington seattle.
