@@ -11,9 +11,9 @@ title                    : "Jolie Zhou"
 title_separator          : "-"
 name                     : &name "Jolie Zhou"
 description              : &description "cs + ling undergrad @ uw"
-url                      : https://joliefish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jolzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joliefish.github.io"
+repository               : "jolzhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "joliez@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jolie-zhou/"
   orcid            : 
   pinterest        :
   soundcloud       :
