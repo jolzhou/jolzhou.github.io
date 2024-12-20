@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Jolie [ˈʤɑˌli]. I'm a Computer Science & Linguistics undergraduate student at University of Washington (UW).
 
-I am fortunate to be advised by [Prof. Annie T. Chen](https://annietchen.github.io/) and to have collaborated on the [Svoboda Diaries Project](https://www.svobodadiariesproject.org/).
+I am fortunate to have been advised by [Prof. Annie T. Chen](https://annietchen.github.io/) and to have collaborated on the [Svoboda Diaries Project](https://www.svobodadiariesproject.org/).
 
 My research interests include model interpretability, multilingual settings, and interdisciplinary applications (e.g., in digital humanities). 
 
